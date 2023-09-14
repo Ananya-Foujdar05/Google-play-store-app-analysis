@@ -8,14 +8,14 @@
 + Insights
 
 
- ## Problem Statement:
+ ## Problem Statement: 
+ Analyze the data and create interactive dashboard.
 
-
-
- ## Data Source:
+ ## Data Source: 
+ [Google play store Data Set](https://github.com/Ananya-Foujdar05/Google-play-store-app-analysis/blob/main/googleplaystore.csv)
 
 ## Data Preparation:
-
+Done all data transformation that required.
 
 ## Data Visualization:
 
@@ -28,5 +28,4 @@
 + Most number of apps belong to family app category and higest installed app candy crush saga is from family and game category.
 + There are four apps that are higest rated app and their rating is 4.7.
 + Most reviewed app is instagram followed by whatsapp messeanger. 
-
-+  
+  
